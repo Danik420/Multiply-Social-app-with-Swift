@@ -1,0 +1,15 @@
+Target dependency graph (6 targets)
+Alamofire in Pods, no dependencies
+AlamofireImage in Pods, depends on:
+Alamofire in Pods (explicit)
+KeychainAccess in Pods, no dependencies
+OAuthSwift in Pods, no dependencies
+OAuthSwiftAlamofire in Pods, depends on:
+Alamofire in Pods (explicit)
+OAuthSwift in Pods (explicit)
+Pods-mTest01 in Pods, depends on:
+Alamofire in Pods (explicit)
+AlamofireImage in Pods (explicit)
+KeychainAccess in Pods (explicit)
+OAuthSwift in Pods (explicit)
+OAuthSwiftAlamofire in Pods (explicit)
